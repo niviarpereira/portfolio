@@ -1,4 +1,4 @@
-# 🔐 Portfólio
+# Portfólio
 
 ### Nívia Ribeiro Pereira
 
@@ -8,7 +8,7 @@ Este repositório reúne meus **laboratórios, estudos e projetos práticos**, d
 
 ---
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 Minha trajetória profissional começou na área da educação e também passei a atuar como **designer freelancer**, experiências que contribuíram para desenvolver habilidades como comunicação, organização, criatividade, resolução de problemas e atenção aos detalhes.
 
@@ -18,7 +18,7 @@ Meu objetivo é conquistar minha **primeira oportunidade na área de Cibersegura
 
 ---
 
-## 🎯 Atualmente estudando
+##  Atualmente estudando
 
 * 🌐 Redes de Computadores
 * 🔐 Fundamentos de Cibersegurança
@@ -31,7 +31,7 @@ Meu objetivo é conquistar minha **primeira oportunidade na área de Cibersegura
 
 ---
 
-## 🧪 Laboratórios e projetos
+##  Laboratórios e projetos
 
 Os projetos deste portfólio são organizados por atividade e apresentam o processo de desenvolvimento, as configurações realizadas, evidências e principais aprendizados.
 
@@ -45,7 +45,7 @@ Os projetos deste portfólio são organizados por atividade e apresentam o proce
 
 ---
 
-## 🛠️ Ferramentas e tecnologias
+##  Ferramentas e tecnologias
 
 `Cisco Packet Tracer`
 `Wireshark`
@@ -56,7 +56,7 @@ Os projetos deste portfólio são organizados por atividade e apresentam o proce
 
 ---
 
-## 📚 Formação atual
+##  Formação atual
 
 **Programa Mulher Digital — Junior Achievement Brasil**
 Formação em **Cibersegurança** e Desenvolvimento Pessoal
@@ -66,7 +66,7 @@ Conteúdos e atividades práticas utilizando a plataforma **Cisco Networking Aca
 
 ---
 
-## 📈 Em desenvolvimento
+##  Em desenvolvimento
 
 Este portfólio está em construção e acompanha minha evolução na área de Cibersegurança.
 
@@ -74,10 +74,10 @@ A ideia é registrar não apenas os resultados dos laboratórios, mas também o 
 
 ---
 
-## 📫 Contato
+##  Contato
 
-**LinkedIn:** adicionar link
-**GitHub:** este perfil
+**LinkedIn:** https://www.linkedin.com/in/niviarpereira/
+**Email:** pngnivia@gmail.com
 
 ---
 
