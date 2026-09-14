@@ -1,4 +1,4 @@
-# 🔐 Comunicação entre 3 Redes Distintas
+# Comunicação entre 3 Redes Distintas
 
 ### Cisco Packet Tracer • IPv4 • Routing • ICMP
 
@@ -6,13 +6,13 @@
 
 ---
 
-## 🧭 Visão geral
+## Visão geral
 
 Neste laboratório, foi criado um cenário com **três redes IP distintas**, conectadas a um roteador central.
 
 A proposta foi configurar os dispositivos para permitir a comunicação entre redes diferentes e validar essa comunicação por meio do **ICMP (ping)**.
 
-| 🧩 Componente      | Configuração        |
+|    Componente      |    Configuração     |
 | ------------------ | ------------------- |
 | Simulador          | Cisco Packet Tracer |
 | Roteador           | Cisco 2911          |
@@ -24,7 +24,7 @@ A proposta foi configurar os dispositivos para permitir a comunicação entre re
 
 ---
 
-## 🗺️ Topologia
+##  Topologia
 
 A rede foi estruturada com três segmentos diferentes, cada um conectado a um switch. Os três switches foram conectados a um **roteador central**, responsável pela comunicação entre as redes.
 
@@ -53,7 +53,7 @@ A rede foi estruturada com três segmentos diferentes, cada um conectado a um sw
 
 ---
 
-## 🌐 Endereçamento IPv4
+##  Endereçamento IPv4
 
 Cada rede recebeu uma faixa de endereçamento diferente.
 
@@ -76,7 +76,7 @@ Abaixo, uma das configurações de endereço IPv4 realizada nos dispositivos:
 
 ---
 
-## ⚙️ Configuração realizada
+##  Configuração realizada
 
 Durante o laboratório foram realizados os seguintes procedimentos:
 
@@ -90,7 +90,7 @@ Durante o laboratório foram realizados os seguintes procedimentos:
 
 ---
 
-## 🔄 Fluxo de comunicação
+##  Fluxo de comunicação
 
 Um dos testes realizados utilizou o seguinte caminho:
 
@@ -110,7 +110,7 @@ Nesse cenário, o pacote precisa passar pelo roteador porque **PC A1 e PC C1 per
 
 ---
 
-## 🧪 Teste de conectividade
+##  Teste de conectividade
 
 Para verificar a comunicação entre as redes, foi utilizado o comando `ping`, baseado no protocolo **ICMP**.
 
@@ -136,7 +136,7 @@ O primeiro envio apresentou uma falha durante a simulação. Após o processo de
 
 ---
 
-## 🧠 Principais aprendizados
+##  Principais aprendizados
 
 Este laboratório ajudou a compreender, na prática:
 
@@ -153,7 +153,7 @@ Este laboratório ajudou a compreender, na prática:
 
 ---
 
-## 🛠️ Competências praticadas
+##  Competências praticadas
 
 `IPv4` · `Redes de Computadores` · `Endereçamento IP` · `Subnet Mask` · `Gateway` · `Switching` · `Routing` · `ICMP` · `ARP` · `Cisco Packet Tracer` · `Troubleshooting`
 
@@ -181,11 +181,11 @@ O arquivo `.pkt` contém a topologia utilizada no laboratório e pode ser aberto
 
 Vídeo relacionado à apresentação deste laboratório:
 
-**Link:** `COLE O LINK DO VÍDEO AQUI`
+**Link:** https://youtu.be/Z2j3y9h8_Ro
 
 ---
 
-## 📚 Contexto
+##  Contexto
 
 Este laboratório foi desenvolvido como parte das atividades práticas da formação em **Cibersegurança do Programa Mulher Digital**, utilizando conteúdos e ferramentas da **Cisco Networking Academy**.
 
@@ -193,7 +193,7 @@ A atividade contribui para a construção dos fundamentos de **Redes de Computad
 
 ---
 
-## 🚀 Próximos laboratórios
+##  Próximos laboratórios
 
 Este projeto faz parte de uma sequência de atividades práticas que serão adicionadas ao portfólio conforme o avanço dos estudos.
 
