@@ -77,7 +77,6 @@ A ideia é registrar não apenas os resultados dos laboratórios, mas também o 
 ##  Contato
 
 **LinkedIn:** https://www.linkedin.com/in/niviarpereira/
-**Email:** pngnivia@gmail.com
 
 ---
 
