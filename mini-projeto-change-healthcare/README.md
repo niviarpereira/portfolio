@@ -30,4 +30,5 @@ Relacionar conceitos de cibersegurança a um incidente real e compreender como u
 
 ## Formação
 
-Mini-projeto desenvolvido durante a formação em Cibersegurança do Programa Mulher Digital da Junior Achievement Brasil. 
+Mini-projeto desenvolvido durante a formação em Cibersegurança do Programa Mulher Digital da Junior Achievement Brasil: JA Brasil. 
+
