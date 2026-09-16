@@ -22,7 +22,7 @@ A investigação busca compreender o incidente a partir da perspectiva da cibers
 
 A análise completa do caso está disponível na apresentação em PDF:
 
-[📄 Acessar investigação](mini-projeto-change-healthcare/Change-Healthcare-Ciberseguranca.pdf.pdf)
+[📄 Acessar investigação](mini-projeto-change-healthcare/Change-Healthcare-Ciberseguranca.pdf)
 
 ## Objetivo
 
