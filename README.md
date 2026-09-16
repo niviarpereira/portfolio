@@ -40,6 +40,7 @@ Os projetos deste portfólio são organizados por atividade e apresentam o proce
 | Projeto                                    | Tecnologias / conceitos                           |
 | ------------------------------------------ | ------------------------------------------------- |
 | 🔗 **Comunicação entre 3 Redes Distintas** | IPv4 • Routing • ICMP • ARP • Cisco Packet Tracer |
+| [O caso Change Healthcare](./mini-projeto-change-healthcare/) | Cibersegurança • Ransomware • MFA • Resposta a incidentes |
 
 > Novos laboratórios serão adicionados conforme o avanço da formação.
 
