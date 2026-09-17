@@ -159,24 +159,6 @@ Este laboratório ajudou a compreender, na prática:
 
 ---
 
-## 📁 Arquivos do laboratório
-
-```text
-01-comunicacao-entre-3-redes-distintas/
-│
-├── README.md
-├── comunicacao-entre-3-redes-distintas.pkt
-│
-└── imagens/
-    ├── topologia.png
-    ├── configuracao-ip.png
-    └── teste-conexao.png
-```
-
-O arquivo `.pkt` contém a topologia utilizada no laboratório e pode ser aberto no **Cisco Packet Tracer**.
-
----
-
 ## 🎥 Apresentação
 
 Vídeo relacionado à apresentação deste laboratório:
@@ -197,12 +179,13 @@ A atividade contribui para a construção dos fundamentos de **Redes de Computad
 
 Este projeto faz parte de uma sequência de atividades práticas que serão adicionadas ao portfólio conforme o avanço dos estudos.
 
-```text
-📁 portfolio-ciberseguranca
+##  Arquitetura 
 
-├── 📁 01-comunicacao-entre-3-redes-distintas
-│   ├── README.md
-│   ├── comunicacao-entre-3-redes-distintas.pkt
+```text
+📁 portfolio
+
+├── 📁 comunicacao-redes-distintas
+│  
 │   └── 📁 imagens
 │       ├── topologia.png
 │       ├── configuracao-ip.png
