@@ -191,8 +191,10 @@ A atividade contribui para a construção dos fundamentos de **Redes de Computad
 │   └── README.md
 └── 📁 próximos-laboratórios
 
+``` 
+--- 
+
 ##  Próximos laboratórios
 
 Este projeto faz parte de uma sequência de atividades práticas que serão adicionadas ao portfólio conforme o avanço dos estudos.
 
-```
