@@ -161,7 +161,7 @@ Este laboratório ajudou a compreender, na prática:
 
 ## 🎥 Apresentação
 
-Vídeo relacionado à apresentação deste laboratório:
+Vídeo relacionado à apresentação deste laboratório foi feita em grupo e está diponível no Youtube:
 
 **Link:** https://youtu.be/Z2j3y9h8_Ro
 
@@ -175,21 +175,21 @@ A atividade contribui para a construção dos fundamentos de **Redes de Computad
 
 ---
 
+##  Arquitetura
+
+```text
+📁 portfolio
+├── 📁 comunicacao-redes-distintas
+│   ├── 📁 imagens
+│   │   ├── topologia.png
+│   │   ├── configuracao-ip.png
+│   │   └── teste-conexao.png
+│   ├── laboratório-aula-7-comunicacao-redes-distintas.pkt
+│   └── README.md
+└── 📁 próximos-laboratórios
+
 ##  Próximos laboratórios
 
 Este projeto faz parte de uma sequência de atividades práticas que serão adicionadas ao portfólio conforme o avanço dos estudos.
 
-##  Arquitetura 
-
-```text
-📁 portfolio
-
-├── 📁 comunicacao-redes-distintas
-│  
-│   └── 📁 imagens
-│       ├── topologia.png
-│       ├── configuracao-ip.png
-│       └── teste-conexao.png
-│
-└── 📁 próximos-laboratórios
 ```
