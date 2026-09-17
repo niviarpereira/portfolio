@@ -161,7 +161,7 @@ Este laboratório ajudou a compreender, na prática:
 
 ## 🎥 Apresentação
 
-Vídeo relacionado à apresentação deste laboratório foi feita em grupo e está diponível no Youtube:
+Vídeo relacionado à apresentação deste laboratório foi feita em grupo e está disponível no Youtube:
 
 **Link:** https://youtu.be/Z2j3y9h8_Ro
 
