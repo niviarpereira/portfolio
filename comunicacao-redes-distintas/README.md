@@ -135,7 +135,7 @@ O primeiro envio apresentou uma falha durante a simulação. Após o processo de
 **Comunicação estabelecida entre dispositivos de redes diferentes.**
 ---
 
-##  O arquivo desse projeto .pkt está disponível para visualização.
+O arquivo desse projeto .pkt está disponível para visualização.
 
 ---
 
