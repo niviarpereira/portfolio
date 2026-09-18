@@ -1,6 +1,6 @@
 # Portfólio
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&weight=500&letterSpacing=2px&pause=930&color=9E26B8F3&background=46464600&center=true&width=435&lines=N%C3%ADvia+Ribeiro+Pereira)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&weight=500&letterSpacing=2px&pause=930&color=9E26B8F3&background=46464600&center=true&width=435&lines=N%C3%ADvia+Ribeiro+Pereira...)](https://git.io/typing-svg)
 
 Estudante de Cibersegurança em transição de carreira para Tecnologia, com foco em **Redes, Segurança da Informação e operações de segurança (SOC)**.
 
