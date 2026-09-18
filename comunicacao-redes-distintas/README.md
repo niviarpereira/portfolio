@@ -133,6 +133,9 @@ O primeiro envio apresentou uma falha durante a simulação. Após o processo de
 ### ✅ Resultado
 
 **Comunicação estabelecida entre dispositivos de redes diferentes.**
+---
+
+O arquivo desse projeto .pkt está disponível para visualização.
 
 ---
 
@@ -161,7 +164,7 @@ Este laboratório ajudou a compreender, na prática:
 
 ## 🎥 Apresentação
 
-Vídeo relacionado à apresentação deste laboratório:
+Vídeo relacionado à apresentação deste laboratório foi feita em grupo e está disponível no Youtube:
 
 **Link:** https://youtu.be/Z2j3y9h8_Ro
 
@@ -175,21 +178,19 @@ A atividade contribui para a construção dos fundamentos de **Redes de Computad
 
 ---
 
-##  Próximos laboratórios
-
-Este projeto faz parte de uma sequência de atividades práticas que serão adicionadas ao portfólio conforme o avanço dos estudos.
-
-##  Arquitetura 
+##  Arquitetura
 
 ```text
 📁 portfolio
-
 ├── 📁 comunicacao-redes-distintas
-│  
-│   └── 📁 imagens
-│       ├── topologia.png
-│       ├── configuracao-ip.png
-│       └── teste-conexao.png
-│
+│   ├── 📁 imagens
+│   │   ├── configuracao_ip.png
+│   │   ├── teste_conexao.png
+│   │   └── topologia_rede.png
+│   ├── laboratório-aula-7-comunicacao-redes-distintas.pkt
+│   └── README.md
 └── 📁 próximos-laboratórios
-```
+
+``` 
+--- 
+
