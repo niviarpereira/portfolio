@@ -184,17 +184,13 @@ A atividade contribui para a construção dos fundamentos de **Redes de Computad
 📁 portfolio
 ├── 📁 comunicacao-redes-distintas
 │   ├── 📁 imagens
-│   │   ├── topologia.png
-│   │   ├── configuracao-ip.png
-│   │   └── teste-conexao.png
+│   │   ├── configuracao_ip.png
+│   │   ├── teste_conexao.png
+│   │   └── topologia_rede.png
 │   ├── laboratório-aula-7-comunicacao-redes-distintas.pkt
 │   └── README.md
 └── 📁 próximos-laboratórios
 
 ``` 
 --- 
-
-##  Próximos laboratórios
-
-Este projeto faz parte de uma sequência de atividades práticas que serão adicionadas ao portfólio conforme o avanço dos estudos.
 
