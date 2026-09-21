@@ -1,4 +1,4 @@
-# O caso Change Healthcare sob a perspectiva da Cibersegurança
+# O caso Change Healthcare
 
 ## Sobre o projeto
 
